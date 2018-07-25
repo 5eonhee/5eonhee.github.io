@@ -5,10 +5,12 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+url: "https://5eonhee.github.io"
+baseurl: ""
+remote_theme : jekyller/jasper2
 
 # Website info
-title: Ghost
+title: 5eonhee
 description: The professional publishing platform
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
