@@ -11,7 +11,7 @@ remote_theme : jekyller/jasper2
 
 # Website info
 title: 5eonhee
-description: The professional publishing platform
+description: 5eonhee's blog
 cover: assets/images/blog-cover.jpg
 logo: assets/images/logo.jpg
 logo_dark: assets/images/favicon.png
